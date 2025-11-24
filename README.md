@@ -1,4 +1,4 @@
-<img width="451" height="745" alt="Screenshot 2025-11-24 180931" src="https://github.com/user-attachments/assets/7a1eb701-525b-410c-bfa0-b4d59d51ad37" /># Banking-System
+# Banking-System
 This is a simple console-based banking application implemented in Python. It allows a user to perform basic banking operations such as checking balance, depositing money, and withdrawing money. The program runs in a loop until the user chooses to exit.
 
 
